@@ -1,0 +1,8 @@
+# Copie temporanee degli editor
+*~
+
+# File temporanei di MATLAB
+*.asv
+
+# Header precompilati C++
+*.gch
